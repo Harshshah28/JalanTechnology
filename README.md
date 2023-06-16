@@ -12,11 +12,12 @@
       * java  CarService.java
 
    * Input Section :
-      ![image](https://github.com/Harshshah28/JalanTechnology/assets/113374284/b874d224-7861-40a0-aba6-2352d9cbea76)
+      ![image](https://github.com/Harshshah28/JalanTechnology/assets/113374284/00844e15-8326-40c9-8643-750c5ba330c6)
 
 
    * Output Section
-      ![image](https://github.com/Harshshah28/JalanTechnology/assets/113374284/6eba8ab7-f913-4a55-8c16-3f83a318ff5c)
+      ![image](https://github.com/Harshshah28/JalanTechnology/assets/113374284/52cd25d6-7c84-4849-8620-72550eba8fa6)
+
 
 
 ### Conclusion:
